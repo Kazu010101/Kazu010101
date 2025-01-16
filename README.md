@@ -8,7 +8,6 @@ I am an experienced sales and content moderator who is advancing my education an
 Switching my carreer into IT and cybersecurity studies has led me to develop new skills which I am very eager to implement in these fields, specifically on blue-teaming technical roles such as Tier 1 Security Operations Center (SOC) Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,7 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
