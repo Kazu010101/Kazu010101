@@ -3,7 +3,7 @@
 
 I am on my journey to advancing my education and qualifications in IT and Cybersecurity.
 
-PS: currently in the process of uploading my IT and cybersecurity portfolios into this newly created GitHub.
+PS: currently in the process of uploading my IT and cybersecurity portfolios into this newly created GitHub account.
 
 ## Objective
 
