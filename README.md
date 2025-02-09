@@ -3,6 +3,8 @@
 
 I am on my journey to advancing my education and qualifications in IT and Cybersecurity.
 
+PS: currently in the process of uploading my IT and cybersecurity portfolios into this newly created GitHub.
+
 ## Objective
 
 Switching my carreer into IT and cybersecurity studies has led me to develop new skills which I am very eager to implement in these fields, specifically on blue-teaming technical roles such as Tier 1 Security Operations Center (SOC) Analyst.
@@ -11,12 +13,11 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cybersecurity          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
+| Networking | In Progress |
+| GRC         | In Progress|
+| Troubleshooting      | In Progress|
+| Scripting | In Progress |
 
 ## Tools
 
@@ -39,7 +40,6 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -53,6 +53,3 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
     <img src="https://img.shields.io/badge/-Cyber%20Threat%20Management%20(Cisco)-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />    
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
