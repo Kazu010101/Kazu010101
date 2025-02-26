@@ -14,6 +14,7 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cybersecurity          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
+| SOC Analyst          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | CCNA | In Progress |
 | GRC         | In Progress|
 | Troubleshooting      | In Progress|
