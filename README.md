@@ -16,7 +16,7 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 | Cybersecurity          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | SOC Analyst          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | CCNA | In Progress |
-| SPLUNK         | In Progress|
+| SIEM         | <a href="https://github.com/Kazu010101/Splunk-security-monitoring-portfolio.git">Splunk-Project|
 | Troubleshooting      | In Progress|
 | Scripting | In Progress |
 | AWS | In Progress |
