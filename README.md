@@ -9,7 +9,7 @@ PS: currently in the process of uploading my IT and cybersecurity portfolios int
 
 Switching my carreer into IT and cybersecurity studies has led me to develop new skills which I am very eager to implement in these fields, specifically on blue-teaming technical roles such as Tier 1 Security Operations Center (SOC) Analyst.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
