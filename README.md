@@ -49,8 +49,11 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Certificate%20IV%20in%20Cybersecurity%20(RMIT)-A51218?&style=for-the-badge&logo=RMIT&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA2027?&style=for-the-badge&logo=compTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst%20Learning%20Path-0A66C2?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCNA-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20Essentials%20(LE--1)-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Specialization-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cyber%20Threat%20Management%20(Cisco)-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />    
 </div>
