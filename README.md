@@ -15,7 +15,7 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 |-----------------------------------------------|----------------------------|
 | Cybersecurity          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | SIEM         | <a href="https://github.com/Kazu010101/Splunk-security-monitoring-portfolio.git">Splunk-Project|
-| Windows CLI | |
+| Windows CLI | <a href="https://github.com/Kazu010101/Windows-CLI-Capstone-Project/edit/main/README.md"> Windows CLI Capstone Projects|
 
 ## Tools
 
