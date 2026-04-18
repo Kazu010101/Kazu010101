@@ -3,8 +3,6 @@
 
 I am on my journey to advancing my education and qualifications in IT and Cybersecurity.
 
-PS: currently in the process of uploading my IT and cybersecurity portfolios into this newly created GitHub account.
-
 ## Objective
 
 Switching my carreer into IT and cybersecurity studies has led me to develop new skills which I am very eager to implement in these fields, specifically on blue-teaming technical roles such as Tier 1 Security Operations Center (SOC) Analyst.
