@@ -15,6 +15,7 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 | SIEM         | <a href="https://github.com/Kazu010101/Splunk-security-monitoring-portfolio.git">Splunk-Project|
 | Windows CLI | <a href="https://github.com/Kazu010101/Windows-CLI-Capstone-Project/tree/main"> Windows CLI Capstone Projects|
 | Linux CLI | <a href="https://github.com/Kazu010101/Linux-CLI-Capstone-Project/blob/main/README.md">Linux CLI Capstone Projects|
+| Python | |
 
 ## Tools
 
