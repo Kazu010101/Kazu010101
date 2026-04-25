@@ -20,6 +20,11 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
 
 ## Tools
 
+### CLI
+<div>
+  <img src="https://img.shields.io/badge/-Linux%20CLI-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Windows%20CLI-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -27,6 +32,11 @@ Switching my carreer into IT and cybersecurity studies has led me to develop new
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<div>
+    
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
