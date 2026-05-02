@@ -53,6 +53,7 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 | **Endpoint**   | ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white) |
 | **Virtualization** | ![VirtualBox](https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white) |
 | **SIEM**       | ![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white) |
+| **Threat Intelligence & OSINT** | ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white) ![PhishTool](https://img.shields.io/badge/-PhishTool-FF6F00?&style=for-the-badge&logo=hackthebox&logoColor=white) ![Hybrid Analysis](https://img.shields.io/badge/-Hybrid%20Analysis-2E3440?&style=for-the-badge&logo=virustotal&logoColor=white) ![WHOIS](https://img.shields.io/badge/-WHOIS%20Lookup-4CAF50?&style=for-the-badge&logo=internetexplorer&logoColor=white) ![URL2PNG](https://img.shields.io/badge/-URL2PNG-9C27B0?&style=for-the-badge&logo=googlechrome&logoColor=white) ![urlscan.io](https://img.shields.io/badge/-urlscan.io-1E88E5?&style=for-the-badge&logo=googlechrome&logoColor=white) ![Cisco Talos](https://img.shields.io/badge/-Cisco%20Talos-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white) |
 
 
 ## Certifications
