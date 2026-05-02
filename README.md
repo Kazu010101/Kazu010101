@@ -1,5 +1,7 @@
-# Hello, I'm Kazu 👋
+# Hello, I'm Kazu 👋 Thank you for visiting my portfolio landing page 😊
 <a href="https://linkedin.com/in/kazu-suryadikarta-81524a189"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## About Me
 
 An Associate Cyber Security Analyst focused on SOC operations, security fundamentals, log analysis, network security, threat detection and intelligence. 
 
@@ -12,7 +14,9 @@ I always love being in the good guy side - Driven to fight cybercrime, protect d
 ## Objective(s)
 
 **Short Term**: Complete my BTL1 Certification 
+
 **Long Term**: Land an entry-level SOC analyst tier 1, or similar role
+
 **Permanent**: Keep on Learning until Long Term objective is achieved.
 
 ## Projects
