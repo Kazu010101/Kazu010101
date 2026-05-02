@@ -9,13 +9,14 @@ With diverse backgrounds as Foreign Exchange Consultant (1+ year), Content Moder
 
 Currently have been studying cyber security for over 2+ years and enjoying myself with defensive roles, where I can work with logs, monitor SIEM, investigate artefacts, and turn data into clear, evidence-based decisions.
 
-I always love being in the good guy side - Driven to fight cybercrime, protect digital assets, and continuously learn in a fast-evolving field.
+As for my passion, I always love being in the good guy side - Driven to fight cybercrime, protect digital assets, and continuously learn in this fast-evolving field.
+
 
 ## Objective(s)
 
 **Short Term**: Complete my BTL1 Certification 
 
-**Long Term**: Land an entry-level SOC analyst tier 1, or similar role
+**Long Term**: Land an entry-level SOC analyst tier 1 job, or similar role
 
 **Permanent**: Keep on Learning until Long Term objective is achieved.
 
