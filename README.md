@@ -18,7 +18,7 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 
 **Long Term**: Land an entry-level SOC analyst tier 1 job, or similar defensive roles and build a cyber security career
 
-**Permanent**: Keep on Learning until Long Term objective is achieved.
+**Permanent**: Keep on Learning (and applying for jobs) until Long Term objective is achieved.
 
 ## Projects
 
