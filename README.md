@@ -1,11 +1,11 @@
-# Hello, I'm Kazu 👋 Thank you for visiting my portfolio landing page 😊
+# Hello, I'm Kazu 👋 Thank you for visiting my cyber security portfolio landing page 😊
 <a href="https://linkedin.com/in/kazu-suryadikarta-81524a189"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
 
 An Associate Cyber Security Analyst focused on SOC operations, security fundamentals, log analysis, network security, threat detection and intelligence. 
 
-With diverse backgrounds as Foreign Exchange Consultant (1+ year), Content Moderator Team Leader (2 years), Business Support Roles (5+ years), and Entreprenurship (5+ years), I bring forth transferable-ready skills such as: working under fast-paced, operations-focused roles, supervising 24/7 operation in managing high-volume real-time risks, following strict operational playbooks, conducting negotiation, and research (OSINT and primary data collection). I’m comfortable working with structured processes, documenting clearly, and contributing to team environments where accuracy and accountability matter, along with effective communication, adaptability, and teamwork.
+With diverse background as Foreign Exchange Consultant (1+ year), Content Moderator Team Leader (2 years), Business Support Roles (5+ years), and Entreprenurship (5+ years), I bring forth transferable-ready skills such as: working under fast-paced, operations-focused roles, supervising 24/7 operation in managing high-volume real-time risks, following strict operational playbooks, conducting negotiation, and research (OSINT and primary data collection). I’m comfortable working with structured processes, documenting clearly, and contributing to team environments where accuracy and accountability matter, along with effective communication, adaptability, and teamwork.
 
 Currently have been studying cyber security for over 2+ years and enjoying myself with defensive roles, where I can work with logs, monitor SIEM, investigate artefacts, and turn data into clear, evidence-based decisions.
 
@@ -16,7 +16,7 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 
 **Short Term**: Complete my BTL1 Certification 
 
-**Long Term**: Land an entry-level SOC analyst tier 1 job, or similar role
+**Long Term**: Land an entry-level SOC analyst tier 1 job, or similar defensive roles
 
 **Permanent**: Keep on Learning until Long Term objective is achieved.
 
@@ -31,40 +31,29 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 | Threat Intelligence | <a href="https://github.com/Kazu010101/Threat-Intelligence/blob/main/README.md">IOC Investigation -- MintsLoader / TAG-124 Attribution|
 | Python | <a href="https://github.com/Kazu010101/Python-Project/tree/main">Python Projects|
 
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-Certificate%20IV%20in%20Cybersecurity%20(RMIT)-A51218?&style=for-the-badge&logo=RMIT&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA2027?&style=for-the-badge&logo=compTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst%20Learning%20Path-0A66C2?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20Essentials%20(LE--1)-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Specialization-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber%20Threat%20Management%20(Cisco)-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />    
+</div>
+
 ## Tools
 
-### CLI
-<div>
-  <img src="https://img.shields.io/badge/-Linux%20CLI-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Windows%20CLI-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+| Category        | Tools |
+|----------------|-------|
+| **CLI**        | ![Linux CLI](https://img.shields.io/badge/-Linux%20CLI-FCC624?&style=for-the-badge&logo=linux&logoColor=black) ![Windows CLI](https://img.shields.io/badge/-Windows%20CLI-0078D6?&style=for-the-badge&logo=windows&logoColor=white) |
+| **Network**    | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white) |
+| **Scripting**  | ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white) |
+| **Endpoint**   | ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white) |
+| **Virtualization** | ![VirtualBox](https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white) |
+| **SIEM**       | ![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white) |
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
-
-### Scripting
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-<div>
-    
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Virtualization
-<div>
-    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
