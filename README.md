@@ -48,7 +48,7 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 | Category        | Tools |
 |----------------|-------|
 | **CLI**        | ![Linux CLI](https://img.shields.io/badge/-Linux%20CLI-FCC624?&style=for-the-badge&logo=linux&logoColor=black) ![Windows CLI](https://img.shields.io/badge/-Windows%20CLI-0078D6?&style=for-the-badge&logo=windows&logoColor=white) |
-| **Network**    | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white) |
+| **Networking**    | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white) |
 | **Scripting**  | ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white) |
 | **Endpoint**   | ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white) |
 | **Virtualization** | ![VirtualBox](https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white) |
