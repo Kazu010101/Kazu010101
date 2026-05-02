@@ -5,7 +5,7 @@
 
 An Associate Cyber Security Analyst focused on SOC operations, security fundamentals, log analysis, network security, threat detection and intelligence. 
 
-With diverse background as Foreign Exchange Consultant (1+ year), Content Moderator Team Leader (2 years), Business Support Roles (5+ years), and Entreprenurship (5+ years), I bring forth transferable-ready skills such as: working under fast-paced, operations-focused roles, supervising 24/7 operation in managing high-volume real-time risks, following strict operational playbooks, conducting negotiation, and research (OSINT and primary data collection). I’m comfortable working with structured processes, documenting clearly, and contributing to team environments where accuracy and accountability matter, along with effective communication, adaptability, and teamwork.
+With diverse background as Foreign Exchange Consultant (1+ year), Content Moderator Team Leader (2 years), Business Support Roles (5+ years), and Entreprenur (5+ years), I bring forth transferable-ready skills such as: working under fast-paced, operations-focused roles, supervising 24/7 operation in managing high-volume real-time risks, following strict operational playbooks, conducting negotiation, and research (OSINT and primary data collection). I’m comfortable working with structured processes, documenting clearly, and contributing to team environments where accuracy and accountability matter, along with effective communication, adaptability, and teamwork.
 
 Currently have been studying cyber security for over 2+ years and enjoying myself with defensive roles, where I can work with logs, monitor SIEM, investigate artefacts, and turn data into clear, evidence-based decisions.
 
