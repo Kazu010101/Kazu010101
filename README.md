@@ -1,11 +1,19 @@
-# Hello, I'm Kazu
+# Hello, I'm Kazu 👋
 <a href="https://linkedin.com/in/kazu-suryadikarta-81524a189"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am on my journey to advancing my education and qualifications in IT and Cybersecurity.
+An Associate Cyber Security Analyst focused on SOC operations, security fundamentals, log analysis, network security, threat detection and intelligence. 
 
-## Objective
+With diverse backgrounds as Foreign Exchange Consultant (1+ year), Content Moderator Team Leader (2 years), Business Support Roles (5+ years), and Entreprenurship (5+ years), I bring forth transferable-ready skills such as: working under fast-paced, operations-focused roles, supervising 24/7 operation in managing high-volume real-time risks, following strict operational playbooks, conducting negotiation, and research (OSINT and primary data collection). I’m comfortable working with structured processes, documenting clearly, and contributing to team environments where accuracy and accountability matter, along with effective communication, adaptability, and teamwork.
 
-Switching my carreer into IT and cybersecurity studies has led me to develop new skills which I am very eager to implement in these fields, specifically on blue-teaming technical roles such as Tier 1 Security Operations Center (SOC) Analyst.
+Currently have been studying cyber security for over 2+ years and enjoying myself with defensive roles, where I can work with logs, monitor SIEM, investigate artefacts, and turn data into clear, evidence-based decisions.
+
+I always love being in the good guy side - Driven to fight cybercrime, protect digital assets, and continuously learn in a fast-evolving field.
+
+## Objective(s)
+
+**Short Term**: Complete my BTL1 Certification 
+**Long Term**: Land an entry-level SOC analyst tier 1, or similar role
+**Permanent**: Keep on Learning until Long Term objective is achieved.
 
 ## Projects
 
