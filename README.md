@@ -56,15 +56,4 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 | **Threat Hunting & OSINT** | ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white) ![PhishTool](https://img.shields.io/badge/-PhishTool-FF6F00?&style=for-the-badge&logo=hackthebox&logoColor=white) ![Hybrid Analysis](https://img.shields.io/badge/-Hybrid%20Analysis-2E3440?&style=for-the-badge&logo=virustotal&logoColor=white) ![WHOIS](https://img.shields.io/badge/-WHOIS%20Lookup-4CAF50?&style=for-the-badge&logo=internetexplorer&logoColor=white) ![URL2PNG](https://img.shields.io/badge/-URL2PNG-9C27B0?&style=for-the-badge&logo=googlechrome&logoColor=white) ![urlscan.io](https://img.shields.io/badge/-urlscan.io-1E88E5?&style=for-the-badge&logo=googlechrome&logoColor=white) ![Cisco Talos](https://img.shields.io/badge/-Cisco%20Talos-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white) |
 
 
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Certificate%20IV%20in%20Cybersecurity%20(RMIT)-A51218?&style=for-the-badge&logo=RMIT&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA2027?&style=for-the-badge&logo=compTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst%20Learning%20Path-0A66C2?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCNA-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux%20Essentials%20(LE--1)-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Specialization-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cyber%20Threat%20Management%20(Cisco)-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />    
-</div>
 
