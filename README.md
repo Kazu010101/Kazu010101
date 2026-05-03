@@ -30,6 +30,7 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 | Linux CLI | <a href="https://github.com/Kazu010101/Linux-CLI-Capstone-Project/blob/main/README.md">Linux CLI Capstone Projects|
 | Threat Intelligence | <a href="https://github.com/Kazu010101/Threat-Intelligence/blob/main/README.md">IOC Investigation -- MintsLoader / TAG-124 Attribution|
 | Python | <a href="https://github.com/Kazu010101/Python-Project/tree/main">Python Projects|
+| Phishing Analysis | <a href="https://github.com/Kazu010101/Phishing-Analysis/blob/main/README.md">Phishing Flowchart, Artefact Table, Sample SOC Report |
 
 ## Certifications
 <div>
