@@ -1,5 +1,5 @@
 # Hello, I'm Kazu 👋 Thank you for visiting my cyber security portfolio landing page 😊
-<a href="https://linkedin.com/in/kazu-suryadikarta-81524a189"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> **Please don't hesitate to connect with me in Linkedin, I would appreciate any comments, questions, or feedback on my works.**
+**Please do not hesitate to connect with me in** <a href="https://linkedin.com/in/kazu-suryadikarta-81524a189"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>, **I would appreciate any comments, questions, or feedback on my works.**
 
 ## About Me
 
