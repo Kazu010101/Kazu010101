@@ -31,10 +31,12 @@ As for my passion, I always love being in the good guy side - Driven to fight cy
 | Threat Intelligence | <a href="https://github.com/Kazu010101/Threat-Intelligence/blob/main/README.md">IOC Investigation -- MintsLoader / TAG-124 Attribution|
 | Python | <a href="https://github.com/Kazu010101/Python-Project/tree/main">Python Projects|
 | Phishing Analysis | <a href="https://github.com/Kazu010101/Phishing-Analysis/blob/main/README.md">Phishing Flowchart, Artefact Table, Sample SOC Report |
+| Digital Forensic |  <a href="https://github.com/Kazu010101/Cyber-Security-Articles/blob/main/how-to-resurrect-the-dead.md">Article: How to Resurrect the Dead: Windows Registry Recovery Guide| 
 
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Certificate%20IV%20in%20Cybersecurity%20(RMIT)-A51218?&style=for-the-badge&logo=RMIT&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blue%20Team%20Level%201-BTL1-0052CC?style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA2027?&style=for-the-badge&logo=compTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst%20Learning%20Path-0A66C2?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCNA-00A1E0?&style=for-the-badge&logo=Cisco&logoColor=white" />
